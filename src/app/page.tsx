@@ -56,7 +56,9 @@ export default function Home() {
       <div className="lg:hidden flex bg-black text-white w-[100%] h-screen">
         <p className="flex flex-col gap-2 absolute justify-center items-center text-white w-[100%] h-screen">
         
-        USE DESKTOP FOR BETTER EXPERIENCE
+        USE TAB or DESKTOP FOR BETTER EXPERIENCE
+
+        (More than 1024px device)
 
         </p>
       </div>
